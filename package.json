@@ -1,5 +1,5 @@
 {
-  "name": "msw-test",
+  "name": "msw-api",
   "private": true,
   "version": "0.0.0",
   "type": "module",
