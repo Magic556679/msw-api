@@ -1,0 +1,23 @@
+:root {
+  font: 18px/145% system-ui, 'Segoe UI', Roboto, sans-serif;
+  color-scheme: light dark;
+}
+
+body {
+  margin: 0;
+}
+
+#app {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 48px 20px;
+  text-align: center;
+}
+
+#result {
+  text-align: left;
+  padding: 16px;
+  border-radius: 6px;
+  background: rgba(127, 127, 127, 0.1);
+  overflow-x: auto;
+}
